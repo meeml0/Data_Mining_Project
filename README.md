@@ -39,3 +39,4 @@ curl -X POST "http://127.0.0.1:8000/predict" -F "file=@leaf.jpg" => url + photo
 
 
 .
+.
